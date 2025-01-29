@@ -36,6 +36,9 @@ Try running some of the following tasks:
 Project Structure==>
 
 contracts/: Contains Solidity smart contracts.
+
 scripts/: Deployment scripts.
+
 test/: Test files for the contracts.
+
 ignition/modules/: Deployment modules for Hardhat Ignition.
