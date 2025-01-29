@@ -10,12 +10,10 @@ Try running some of the following tasks:
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 - [Git](https://git-scm.com/)
 
-## Getting Started
-
-1. Clone the Repository-->
-   i)git clone https://github.com/foxy111103/X1.git
-   ii)cd X1
-
+## Clone the Repository-->
+   1.git clone https://github.com/foxy111103/X1.git
+   2.cd X1
+   
 ## Install Dependencies
    npm install
 
