@@ -13,8 +13,8 @@ Try running some of the following tasks:
 ## Getting Started
 
 1. Clone the Repository-->
-   git clone https://github.com/foxy111103/X1.git
-   cd X1
+   i)git clone https://github.com/foxy111103/X1.git
+   ii)cd X1
 
 ## Install Dependencies
    npm install
